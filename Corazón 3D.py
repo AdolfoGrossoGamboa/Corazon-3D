@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Jan 29 00:15:44 2025
-
-@author: Cezar
+@author: Adolfo Grosso
 """
 
 from matplotlib import animation

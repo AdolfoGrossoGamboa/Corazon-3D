@@ -65,5 +65,3 @@ ax.text(0, 0, 1.5, "Te Amo Moshi Moshi",
         fontweight='bold', 
         ha='center')
 
-
-plt.show()
